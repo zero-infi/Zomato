@@ -3,11 +3,11 @@
 </div>
 
 ## Project Architecture
-* [Overview](https://github.com/mohit11R/Zomato-Restaurants-Analysis#overview)
-* [Prerequisite](https://github.com/mohit11R/Zomato-Restaurants-Analysis#Prerequisite)
-* [File Structure](https://github.com/mohit11R/Zomato-Restaurants-Analysis#File-Structure)
-* [Dashboard](https://github.com/mohit11R/Zomato-Restaurants-Analysis#Dashboard)
-* [Report Insight](https://github.com/mohit11R/Zomato-Restaurants-Analysis#Report-Insight)
+* [Overview](https://github.com/zero-infi/Zomato-Power-BI#overview)
+* [Prerequisite](https://github.com/zero-infi/Zomato-Power-BI#Prerequisite)
+* [File Structure](https://github.com/zero-infi/Zomato-Power-BI#File-Structure)
+* [Dashboard](https://github.comzero-infi/Zomato-Power-BI#Dashboard)
+* [Report Insight](https://github.com/zero-infi/Zomato-Power-BI#Report-Insight)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Zomato-Restaurant
 
 ## Dashboard
 
-![alt-image](https://github.com/mohit11R/Zomato-Restaurants-Analysis/blob/main/Zomato-Restaurants/Dashboard_img.png?raw=true)
+![alt-image](https://github.com/zero-infi/Zomato-Power-BI/blob/main/Zomato-Restaurants/Dashboard_img.png?raw=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Report Insight
